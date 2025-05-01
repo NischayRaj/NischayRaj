@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Nischay Raj R</h1>
+<h1 align="center">Hi , I'm Nischay Raj R</h1>
 <h3 align="center">A skilled Web Developer, specializing in technologies like React, Node.js, and Java. With a strong foundation in web development, has successfully revamped UIs, managed diverse projects, and demonstrated proficiency in a range of developer tools and frameworks.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nischayraj" alt="nischayraj" /></a> </p>
 
-- 🔭 I’m currently working on [Mid-Journery Project](https://github.com/NischayRaj/Midjourney-Clone)
+- I’m currently working on [Mid-Journery Project](https://github.com/NischayRaj/Midjourney-Clone)
 
-- 🌱 I’m **currently immersed in expanding my knowledge, I am actively learning a diverse set of languages, including Java, JavaScript, and HTML/CSS. My focus extends to mastering frameworks such as React, Node.js, and Tailwind CSS.**
+- I’m **currently immersed in expanding my knowledge, I am actively learning a diverse set of languages, including Java, JavaScript, and HTML/CSS. My focus extends to mastering frameworks such as React, Node.js, and Tailwind CSS.**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NischayRaj](https://github.com/NischayRaj)
+- All of my projects are available at [https://github.com/NischayRaj](https://github.com/NischayRaj)
 
-- 📫 How to reach me **nischayraj11@gmail.com**
+- How to reach me **nischayraj11@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/h5t573](https://rb.gy/h5t573)
+- Know about my experiences [https://rb.gy/h5t573](https://rb.gy/h5t573)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
