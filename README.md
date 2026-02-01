@@ -28,9 +28,3 @@ Building secure and scalable web applications, AI-driven tools, and clean UI/UX.
 - **LinkedIn:** [Nischay Raj R](https://linkedin.com/in/nischayraj)  
 - **LeetCode:** [nischay97](https://leetcode.com/nischay97)  
 - **GeeksforGeeks:** [nischayraj11](https://auth.geeksforgeeks.org/user/nischayraj11)  
-
----
-
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nischayraj&show_icons=true&locale=en&layout=compact)
