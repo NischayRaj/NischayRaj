@@ -1,6 +1,6 @@
 # Nischay Raj R
 
-**Software Engineer | Web Developer**
+**Software Engineer**
 
 Building secure and scalable web applications, AI-driven tools, and clean UI/UX.
 
